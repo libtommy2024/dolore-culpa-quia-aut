@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/dolore-culpa-quia-aut",
-  "version": "7.55.430",
+  "version": "7.55.431",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -236,5 +236,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/dolore-culpa-quia-aut/issues"
   },
-  "packageManager": "yarn@4.9.3"
+  "packageManager": "yarn@4.9.4"
 }
